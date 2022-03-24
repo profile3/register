@@ -1,0 +1,11 @@
+{
+  "description": "Main landing page for -profile on Scratch.",
+  "repo": "https://github.com/profile3/profile3.github.io",
+  "owner": {
+    "username": "profile3",
+    "email": "lyte2022@gmail.com"
+  },
+  "record": {
+    "CNAME": "profile3.github.io"
+  }
+}
